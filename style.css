@@ -2,7 +2,7 @@ body {
 
 background-color: rgba(30, 29, 29, 0.915);
 
-color: rgba(191, 204, 12, 0.911);
+color: rgb(255, 0, 0);
 
 font-family:  "Edu NSW ACT Hand Pre", cursive;
 margin: 0px;
@@ -13,7 +13,7 @@ header {
     font-size: 60px;
     text-align: center;
    
-    border-bottom: solid 10px red;
+    border-bottom: solid 10px rgb(255, 102, 0);
 
    /* border-bottom:dashed 8px #8B008B; */
 
